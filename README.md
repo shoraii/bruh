@@ -1,5 +1,5 @@
 # bruh
-## bruh languange converter and interpreter
+## bruh language converter and interpreter
 **bruh** is an esoteric programming language based on Brainfuck.
 bruh.cpp is *bruh* interpreter, bftobruh.cpp is a converter from Brainfuck to *bruh*
 
